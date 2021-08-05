@@ -1,0 +1,19 @@
+.main-order-div{
+    width: 100%;
+    /* position: absolute; */
+	display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    top:100px;
+	bottom: 0;
+	/* left: 100px; */
+	right: 0;
+	margin: auto;
+    border: 4px solid yellow;
+    padding: 20px;
+    /* display: flex;
+    flex-direction: row; */
+    
+    /* background-color: burlywood; */
+}

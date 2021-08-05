@@ -1,0 +1,29 @@
+.top h1{
+    text-align: left;
+}
+.top .first{
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+    /* justify-content: space-around; */
+}
+.top p{
+    margin: 30px;
+    text-align: left;
+}
+.top{
+    padding:0 10% 10% 10%;
+    border: 4px solid yellow;
+}
+.top img{
+    width: 30%;
+    height: 40vh;
+}
+.top .first p{
+    margin: 50px;
+}
+#headingh2 {
+    font-weight: bold;
+    color: #fff;
+    font-size: 24px;
+  }
